@@ -1,6 +1,9 @@
-# my_kings_11
+# MyKings11
 
-My Kings
+My Kings 11
+
+
+## It is a Dream11 like Application UI in Flutter for Android and iOS
 
 ## Getting Started
 
